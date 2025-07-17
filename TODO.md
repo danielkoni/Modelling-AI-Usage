@@ -28,12 +28,37 @@ Thursday, 27th of March 2025
 
 Thursday, 10th of April 2025
 - [X] Make the luck entered at 0, so negative values are present ie noise not bias.
-- [ ] Change outcome to evidence
-- [ ] Pass full dataset and aggregate inside sns & hue it by alpha or the variable chosen
-- [ ] Let's change AIboost to AI skill Level to be a specific set of values quantiles + average of skills etc... and if chosen the agent jumps or drops to the AI level, in a new file
-- [ ] Error bars as well as I need a way to access each iterations and each run
-- [ ] Test Evidence on each agent individually and see what's up?
-- [ ] Can there be a cost associated with using AI that pushes the agent up, a negative feedback loop like to get really good models you have to pay.
-- [ ] Divide the visualization by skill level, what happens to the top 20% and the lower 20%, in theory they should not be learning in the same way.
-- [ ] AI adoption broken down by skill level hue it and it will pass the number of bins
-- [ ] Start writing Introduction and Preliminary part
+- [X] Change outcome to evidence
+- [X] Pass full dataset and aggregate inside sns & hue it by alpha or the variable chosen
+- [X] Let's change AIboost to AI skill Level to be a specific set of values quantiles + average of skills etc... and if chosen the agent jumps or drops to the AI level, in a new file
+- [X] Error bars as well as I need a way to access each iterations and each run
+- [X] Test Evidence on each agent individually and see what's up?
+- [X] Divide the visualization by skill level, what happens to the top 20% and the lower 20%, in theory they should not be learning in the same way.
+- [X] AI adoption broken down by skill level hue it and it will pass the number of bins
+- [X] Start writing Introduction and Preliminary part
+
+Friday, 2nd of May 2025
+- [X] Create a bulletpoint skeleton for the journal and link-them into one another so they flow
+- [X] Look for a technical solution for a data telling output
+- [X] 2-page framing, Literature review and add what you read to the shared folder
+
+Friday, 16th of May 2025
+- [X] see see if early adopters of AI get a benefit
+- [X] different AI performance
+- [X] Heatmap of 10 levels of starting points
+
+Friday, 6th of June 2025
+-[X] Research more cases and research on AI-led Skill Decay
+-[X] Start compiling all of the research and previous capstone work into the capstone submission
+-[X] Go to Dr. Maria Del Chanona's lecture on ABM at the Summer Institute for Computational Social Sciences
+
+Friday, 20th of June 2025
+-[X] Produce visualizations for the capstone submission (lineplots, heatmaps)
+-[X] Fill the full Model Specification and Implementation part of the capstone
+-[X] Go to the computational urban planning and urban management conference to sit in on ABM lectures
+
+Friday, 4th of July 2025
+-[X] Finalize Capstone
+-[X] Finalize GitHub
+-[X] Finalize Journal
+
