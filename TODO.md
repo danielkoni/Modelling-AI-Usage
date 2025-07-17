@@ -48,17 +48,17 @@ Friday, 16th of May 2025
 - [X] Heatmap of 10 levels of starting points
 
 Friday, 6th of June 2025
--[X] Research more cases and research on AI-led Skill Decay
--[X] Start compiling all of the research and previous capstone work into the capstone submission
--[X] Go to Dr. Maria Del Chanona's lecture on ABM at the Summer Institute for Computational Social Sciences
+- [X] Research more cases and research on AI-led Skill Decay
+- [X] Start compiling all of the research and previous capstone work into the capstone submission
+- [X] Go to Dr. Maria Del Chanona's lecture on ABM at the Summer Institute for Computational Social Sciences
 
 Friday, 20th of June 2025
--[X] Produce visualizations for the capstone submission (lineplots, heatmaps)
--[X] Fill the full Model Specification and Implementation part of the capstone
--[X] Go to the computational urban planning and urban management conference to sit in on ABM lectures
+- [X] Produce visualizations for the capstone submission (lineplots, heatmaps)
+- [X] Fill the full Model Specification and Implementation part of the capstone
+- [X] Go to the computational urban planning and urban management conference to sit in on ABM lectures
 
 Friday, 4th of July 2025
--[X] Finalize Capstone
--[X] Finalize GitHub
--[X] Finalize Journal
+- [X] Finalize Capstone
+- [X] Finalize GitHub
+- [X] Finalize Journal
 
